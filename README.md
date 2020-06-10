@@ -1,4 +1,4 @@
-# Example Consumer
+# Example Consumer 1
 
 [![Build Status](https://travis-ci.com/pactflow/example-consumer.svg?branch=master)](https://travis-ci.com/pactflow/example-consumer)
 
